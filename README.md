@@ -17,3 +17,9 @@ Creo que es interesante como esta Sass puede crear hojas de estilo mas organizad
 
 ### Editor de codigo
 - Visual Studio Code
+
+------------
+
+
+#### Nota:
+Aun falta agregar codigo para que la pagina sea responsiva.
